@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bit-patna/static/css/main.f9cefeb7.css",
+    "main.css": "/bit-patna/static/css/main.f5c6b118.css",
     "main.js": "/bit-patna/static/js/main.082a4d50.js",
     "static/js/453.280fa354.chunk.js": "/bit-patna/static/js/453.280fa354.chunk.js",
     "static/media/patna-campus.jpg": "/bit-patna/static/media/patna-campus.23c2f495862ca4a1a451.jpg",
     "index.html": "/bit-patna/index.html",
-    "main.f9cefeb7.css.map": "/bit-patna/static/css/main.f9cefeb7.css.map",
+    "main.f5c6b118.css.map": "/bit-patna/static/css/main.f5c6b118.css.map",
     "main.082a4d50.js.map": "/bit-patna/static/js/main.082a4d50.js.map",
     "453.280fa354.chunk.js.map": "/bit-patna/static/js/453.280fa354.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9cefeb7.css",
+    "static/css/main.f5c6b118.css",
     "static/js/main.082a4d50.js"
   ]
 }
